@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </p>
 
   <!-- Enlaces a redes sociales -->
-  <a href="[https://linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/sophia-olague-337055158/)"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/sophia-olague-337055158/]()"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fridaolague@hotmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/fridaolague"><img src="https://img.shields.io/badge/Instagram-FFE4E1?style=for-the-badge&logo=instagram&logoColor=black" /></a>
 
